@@ -114,8 +114,7 @@ The Student Record Management System is a menu-driven application developed usin
 4. Records can be added, modified, deleted, and displayed.
 5. Student records can be sorted by name or percentage.
 6. The user can save the records to data.txt.
-7. On exit, the user can choose to save the records or exit without saving.
-
+7. On exit, the user can choose to save the records or exit without saving
 
 9. Key Features****
     ------------------------------------------------------------
@@ -128,7 +127,7 @@ The Student Record Management System is a menu-driven application developed usin
 - Assign roll numbers automatically when adding new records.
 - Save student details to a text file.
 
-- **10. Advantages****
+ **10. Advantages****
       ----------------------------------------------------
 - Simple and user-friendly menu-driven interface.
 - Dynamic management of student records.
@@ -143,8 +142,7 @@ The Student Record Management System is a menu-driven application developed usin
 - Maintaining basic student academic information.
 - Student data organization and sorting.
 - Learning C programming and data structures.
-- Understanding dynamic memory allocation and file operations.
-- 
+- Understanding dynamic memory allocation and file operations
 - 
   12. Future Scope**
   -------------------------------------------------------
@@ -156,7 +154,7 @@ The Student Record Management System is a menu-driven application developed usin
 - Implement record backup and recovery.
 - Develop a graphical user interface.
 - Integrate a database such as MySQL or SQLite.
-- 
+ 
  ** 13. Conclusion**
   --------------------------------------------------------------
 The Student Record Management System demonstrates the use of C programming, singly linked lists, pointers, dynamic memory allocation, sorting algorithms, and file handling. It provides essential operations for managing student information and serves as a foundation for developing more advanced student management applications.
