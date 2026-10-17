@@ -94,7 +94,8 @@ The Student Record Management System is a menu-driven application developed usin
              |       data.txt         |
              +------------------------+
 `
-**7. Software Components**
+
+****7. Software Components****
 ----------------------------------------------------------------
 - C Programming: Implements the application logic.
 - Singly Linked Lists: Dynamically manage student records.
